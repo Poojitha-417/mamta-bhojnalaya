@@ -68,18 +68,21 @@ No additional software or installation is required.
 ## 📸 Screenshots
 
 ### 🏠 Home Section
+![Home](screenshots/home.png)
 
 ### 👨‍🍳 About Us Section
-*(Add About Section Screenshot)*
+![About](screenshots/about.png)
 
 ### 🍽️ Menu Section
-*(Add Menu Section Screenshot)*
+![Menu](screenshots/menu1.png)
+
+![Menu](screenshots/menu2.png)
 
 ### 📞 Contact Section
-*(Add Contact Section Screenshot)*
+![Contact](screenshots/contact.png)
 
 ### 💬 Feedback Section
-*(Add Feedback Section Screenshot)*
+![Feedback](screenshots/feedback.png)
 
 
 ## 🎯 Future Enhancements
@@ -94,7 +97,7 @@ No additional software or installation is required.
 
 ## 👩‍💻 Author
 
-** Battu Poojitha Lakshmi Nagavalli**
+**Battu Poojitha Lakshmi Nagavalli**
 
 **Project:** Mamata Bhojnalaya Restaurant Website
 
